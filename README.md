@@ -1,6 +1,4 @@
-# Factmint Charts
-
-Factmint Charts allows you to create interactive data visualizations, which can be rendered from an HTML table or directly from JSON. For more information and live examples, see [http://factmint.com/charts-overview/](http://factmint.com/charts-overview/). This repo includes the charts as well as the API that you can use to create your own (see the `/api` directory).
+[![BrowserStack Status](https://www.browserstack.com/automate/badge.svg?badge_key=emV0L21MMlQ4aFRGYlQyWFpnb0ppR2FENkI0Ny9PRGF3dDc1U210a1Zvbz0tLVU1cGw5SHZrSHRXMkovT3B5eXRoR3c9PQ==--f1ebbd082c7cb40df3cb8111975f661123cdedbc)](https://www.browserstack.com/automate/public-build/emV0L21MMlQ4aFRGYlQyWFpnb0ppR2FENkI0Ny9PRGF3dDc1U210a1Zvbz0tLVU1cGw5SHZrSHRXMkovT3B5eXRoR3c9PQ==--f1ebbd082c7cb41df3cb8111975f661123cdedbc)
 
 ## Getting started
 
